@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Two functions for storing a matrix and solving the caching the inverse of the matrix 
 
-## making the matrix
+## storing the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
